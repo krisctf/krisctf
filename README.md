@@ -2,7 +2,7 @@
   <img src="https://github.com/krisctf/krisctf/raw/main/assets/animesher.com_white-snow-white-feed-1766214.gif" alt="Snow White Image" width="100%">
 </div>
 
- <center> 19 y/o biochemist & software engineer from the us </center>
+ <center><h2>19 y/o biochemist & software engineer from the us</h2></center>
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
