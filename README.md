@@ -3,7 +3,7 @@
 </div>
 
 <div style="text-align: center;">
-  <h2>19-year-old Biochemist & Software Engineer from the US</h2>
+  <h2>19-year-old Polymath & Autodidact from the US</h2>
 </div>
 
 
