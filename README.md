@@ -19,7 +19,7 @@
    🌱 Love for science and innovation.  
    💓 Passionate with problem solving and daily routines automation.  
    ✍️ Currently researching software architecture, inertial sensors, and sensor fusion.  
-   ⚒️ Coding since 2019 with little over 4 years of experience in software development. 
+   ⚒️ Coding since 2019 with little over 4 years of experience in software development.  
    👨 Living in the US currently soon to travel!  
 <p align="center">
   <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
