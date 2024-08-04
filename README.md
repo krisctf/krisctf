@@ -161,7 +161,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 <hr/>
 
 <p align="center">
- <a href="https://buymeacoffee.com/krisyotam">
+ <a href="https://buymeacoffee.com/tiredundergrad">
    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
  </a>
 </p>
